@@ -333,7 +333,7 @@ function App() {
                 className="text-xl lg:text-2xl text-gray-600 mb-8 font-medium"
               >
                 <span className="bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-                  Full Stack Developer
+                  Web Developer
                 </span>{' '}
                 &{' '}
                 <span className="bg-gradient-to-r from-blue-600 via-cyan-600 to-teal-600 bg-clip-text text-transparent">
@@ -400,7 +400,7 @@ function App() {
                   className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-2xl ring-8 ring-white"
                 >
                     <img
-                    src="/picp.jpg"
+                    src="/picw.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover rounded-xl"
                   />
